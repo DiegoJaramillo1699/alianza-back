@@ -1,0 +1,3 @@
+INSERT INTO CUSTOMER(shared_key,business_id,email,phone,created_at) values ('jgutierrez','Juliana Gutierrez', 'jgutierrez@gmail.com', '321976853', now()),
+                                                                                ( 'mmartinez','Manuel Martinez', 'mmartinez@gmail.com', '321976853', now()),
+                                                                                 ( 'aruiz','Ana Ruiz', 'aruiz@gmail.com', '321976853', now());
